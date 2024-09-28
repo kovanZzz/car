@@ -123,3 +123,8 @@ urllib3
 wheel
 XlsxWriter
 youtube-transcript-api
+streamlit
+easyocr
+opencv-python-headless
+PyPDF2
+pyodbc
